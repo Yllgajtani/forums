@@ -1,0 +1,45 @@
+.continer{
+  background-color: rgb(45, 45, 45);
+  width: 100%;
+  height: auto;
+}
+.js{
+  background-color: yellow;
+  margin-left: 10px;
+  padding: 5px;
+}
+.py{
+  background-color: greenyellow;
+   margin-left: 10px;
+     padding: 5px;
+}
+.ht{
+  background-color: lightblue;
+   margin-left: 10px;
+     padding: 5px;
+}
+.back{
+  background-color: orange;
+   margin-left: 10px;
+     padding: 5px;
+}
+.C{
+  background-color: palevioletred;
+   margin-left: 10px;
+     padding: 5px;
+}
+.JavaScirpt{
+  border-left: 4px solid yellow;
+}
+.python{
+  border-left: 4px solid greenyellow;
+}
+.Html-css{
+  border-left: 4px solid lightblue; 
+}
+.backend{
+    border-left: 4px solid orange;
+}
+.Cc{
+  border-left: 4px solid palevioletred;
+}
